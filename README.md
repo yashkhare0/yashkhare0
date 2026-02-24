@@ -10,7 +10,6 @@ Current obsession: agentic commerce infrastructure—making it trivial to deploy
 
 - 🌍 [noll.to](https://noll.to) · privacy-first document translation—zero logs, zero retention, layout-preserving. Used where secrecy matters.
 
-- 📊 [agent-protocols-review](https://github.com/yashkhare0/agent-protocols-review) · deep dive into the agentic protocol landscape—MCP, A2A, ACP, ANP, AG-UI and how they fit together.
 
 ## Products
 
