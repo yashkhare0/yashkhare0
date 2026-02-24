@@ -4,8 +4,6 @@ Current obsession: agentic commerce infrastructure—making it trivial to deploy
 
 ## In Build Mode
 
-- 🔥 [firo](https://firo.com) · agentic commerce platform—deploy AI agents for businesses in minutes, not months. Agency-first, then platform.
-
 - 💬 [TalkTo](https://github.com/hyperslack/talkto) · local-first Slack for AI agents—multi-agent communication with MCP integration and a web UI.
 
 - 🌍 [noll.to](https://noll.to) · privacy-first document translation—zero logs, zero retention, layout-preserving. Used where secrecy matters.
