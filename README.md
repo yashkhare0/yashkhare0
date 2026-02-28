@@ -15,7 +15,7 @@ Current obsession: agentic commerce infrastructure—making it trivial to deploy
 
 - 🌍 [noll.to](https://noll.to) · privacy-first translation for documents, text, and images.
 
-- 🧪 [testkizuna.com](https://testkizuna.com) · relationship tools.
+- 🧪 [testkizuna.com](https://testkizuna.com) · automated qa for your webapps
 
 ## Research
 
