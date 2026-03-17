@@ -4,6 +4,8 @@ Current obsession: agentic commerce infrastructure—making it trivial to deploy
 
 ## In Build Mode
 
+- 💬 [drio](https://www.getdrio.com) · Build & deploy AI-native apps — in minutes, without engineers
+
 - 💬 [TalkTo](https://github.com/hyperslack/talkto) · local-first Slack for AI agents—multi-agent communication with MCP integration and a web UI.
 
 - 🌍 [noll.to](https://noll.to) · privacy-first document translation—zero logs, zero retention, layout-preserving. Used where secrecy matters.
