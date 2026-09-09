@@ -16,9 +16,7 @@ Current obsession: agentic commerce infrastructure—making it trivial to deploy
 - 🤖 [cosma.app](https://cosma.app) · agentic AI assistant for enterprise teams.
 
 - 🌍 [noll.to](https://noll.to) · privacy-first translation for documents, text, and images.
-
-- 🧪 [testkizuna.com](https://testkizuna.com) · automated qa for your webapps
-
+- 
 ## Research
 
 - 📡 [Agentic Protocol Landscape](https://github.com/yashkhare0/agent-protocols-review) · MCP, A2A, ACP, UCT, ANP, AG-UI, OVON—full analysis of every protocol that matters for agent infrastructure.
