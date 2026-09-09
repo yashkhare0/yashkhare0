@@ -25,4 +25,4 @@ Current obsession: agentic commerce infrastructure—making it trivial to deploy
 
 ## Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/yashkhare0) · [GitHub](https://github.com/yashkhare0) · [Product Hunt](https://www.producthunt.com/@yashkhare0)
+[LinkedIn](https://www.linkedin.com/in/yashkhare0) · [Product Hunt](https://www.producthunt.com/@yashkhare0)
